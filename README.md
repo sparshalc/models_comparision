@@ -5,7 +5,7 @@ Missing: address,contact_no,creator_id,updater_id
 Missing: name,
 Default: false missing for for_trial_balance
 
-#Bank Accounts
+# Bank Accounts
 Additional Attributes: bank_branch,address,contact_no
 
 # Vendor Accounts
